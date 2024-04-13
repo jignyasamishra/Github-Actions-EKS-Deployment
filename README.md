@@ -50,6 +50,24 @@ Automated the installation of essential tools including Java 17, Trivy, Terrafor
 - Ensured code quality, security, and reliability through automated checks and scans.
 - Improved development efficiency, scalability, and reliability of applications deployed on AWS and Kubernetes.
 
+![photo_6071326436771346990_y (1)](https://github.com/jignyasamishra/Github-Actions-EKS-Deployment/assets/85229187/c416ffdf-76eb-4990-b652-3a3a4135567f)
+![photo_6071326436771346991_y](https://github.com/jignyasamishra/Github-Actions-EKS-Deployment/assets/85229187/4e7da95c-ec48-4b17-b33e-ac1aab93a909)
+![photo_6071326436771346992_y](https://github.com/jignyasamishra/Github-Actions-EKS-Deployment/assets/85229187/f282b527-7731-4ccc-9075-78267da7c0b4)
+![photo_6071326436771346993_y](https://github.com/jignyasamishra/Github-Actions-EKS-Deployment/assets/85229187/3d41e147-e545-40cd-8ec9-8f645143f2cb)
+![photo_6071326436771346994_y](https://github.com/jignyasamishra/Github-Actions-EKS-Deployment/assets/85229187/76a3cdd9-2b04-4e16-9385-2eb5002c77f2)
+![photo_6071326436771346995_y](https://github.com/jignyasamishra/Github-Actions-EKS-Deployment/assets/85229187/aa1393ee-5c4d-4923-ae4e-a1fdf195df0e)
+![photo_6071326436771346996_y](https://github.com/jignyasamishra/Github-Actions-EKS-Deployment/assets/85229187/309d781d-f478-4e80-890c-0d78fd171ae1)
+![photo_6071326436771346998_y](https://github.com/jignyasamishra/Github-Actions-EKS-Deployment/assets/85229187/3fb9af52-2628-4764-a404-236f5bb784a4)
+![photo_6071326436771346997_y](https://github.com/jignyasamishra/Github-Actions-EKS-Deployment/assets/85229187/271ef9f5-d076-49d3-a7c7-be64518200e4)
+
+
+
+
+
+
+
+
+
 
 
 
